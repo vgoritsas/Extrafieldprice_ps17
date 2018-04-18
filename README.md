@@ -1,7 +1,7 @@
 # Extrafieldprice_ps17
 
 1. Install the module
-2. Open file name product.tpl in the folder themes/YOUR_THEME_NAME/catalog/product.tpl
+2. Open the filename with name product.tpl in the folder themes/YOUR_THEME_NAME/catalog/product.tpl
 3. In line 84 add the following hook.
 {hook h='displayStorePrice' product=$product}
 
