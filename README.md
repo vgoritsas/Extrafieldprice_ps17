@@ -5,8 +5,11 @@
 3. In line 84 add the following hook.
 {hook h='displayStorePrice' product=$product}
 
-enjoy it.
+
 
 ---
 if you want help contact with me 
 info@nextpointer.gr - vgoritsas@gmail.com
+
+
+enjoy it.
